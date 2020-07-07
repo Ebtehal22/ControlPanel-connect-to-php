@@ -1,0 +1,41 @@
+body
+	{
+		background:pink;
+	}
+button
+{
+	font-size:20px;
+	padding:10px;
+	margin:20px;
+}
+	#butt1
+	{
+		position:relative;
+		left:9%;
+	
+		}
+	#butt3
+	{
+		position:relative;
+		left:10%;
+		}
+	#butt2
+	{
+	position:relative;
+		left:9%;	
+	}
+     #butt4{
+		 position:relative;
+		left:11%;
+	
+	 }
+	 #butt5
+	 {
+		 position:relative;
+		left:-14%;
+	 }
+	 h1
+	 {
+		 position:relative
+		 left:50%;
+	 }
